@@ -24,6 +24,6 @@ public class Overloaded {
 
     public static void printSum(String word) {
         int length = word.length();
-        System.out.println("Длина слова " + word + " равна " + length);
+        System.out.println("Длина слова  " + word + " равна " + length);
     }
 }
