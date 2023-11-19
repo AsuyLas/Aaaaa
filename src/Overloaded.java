@@ -19,11 +19,11 @@ public class Overloaded {
         int len2 = word2.length();
         int sum = len1 + len2;
 
-        System.out.println("Сумма длин слов  " + word1 + " и " + word2 + " = " + sum);
+        System.out.println("Сумма длин слов " + word1 + " и " + word2 + " = " + sum);
     }
 
     public static void printSum(String word) {
         int length = word.length();
-        System.out.println("Длина слова  " + word + " равна " + length);
+        System.out.println("Длина слова " + word + " равна " + length);
     }
 }
