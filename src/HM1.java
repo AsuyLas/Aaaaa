@@ -8,7 +8,8 @@ public class HM1 {
         }
 
         public static void main(String[] args) {
-            MYMETHOD(4, 6);
+            int result = MYMETHOD(4, 6);
+            System.out.println("Результат: " + result);
         }
     }
 }
