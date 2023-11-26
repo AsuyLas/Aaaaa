@@ -1,6 +1,6 @@
 public class Home {
     public static void calculateAndPrintDigitSum() {
-        int number = 674;
+        int number = 678;
         int digit1 = number / 100;
         int digit2 = (number / 10) % 10;
         int digit3 = number % 10;

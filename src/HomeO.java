@@ -12,6 +12,6 @@ public class HomeO {
 
     public static void printSum(String word) {
         int length = word.length();
-        System.out.println("Word length" + word + " = " + length);
+        System.out.println("Word length " + word + " = " + length);
     }
 }
