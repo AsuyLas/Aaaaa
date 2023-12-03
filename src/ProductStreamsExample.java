@@ -25,7 +25,7 @@ class Product {
     }
 }
 
-class ProductStreamsExample {
+public class ProductStreamsExample {
     public static void main(String[] args) {
         List<Product> products = new ArrayList<>();
         products.add(new Product("Laptop", "Silver", 1500.0));
