@@ -10,6 +10,6 @@ public class Home {
     }
 
     public static void main(String[] args) {
-        calculateAndPrintDigitSum(); // Вызываем метод для вычисления и печати суммы цифр числа 123
+        calculateAndPrintDigitSum();
     }
 }
